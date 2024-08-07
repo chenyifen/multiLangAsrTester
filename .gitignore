@@ -1,0 +1,42 @@
+# Python的编译文件
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+
+# 虚拟环境
+venv/
+env/
+.venv/
+
+# PyCharm IDE 文件
+.idea/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# 本地配置文件
+*.env
+*.local
+
+# 数据和结果文件
+wer_results/
+*.txt
+*.md
+
+# 操作系统文件
+.DS_Store
+Thumbs.db
+
+# 临时文件
+*.swp
+*.swo
+*.tmp
+
+# 其他常见文件
+*.log
+*.bak
+*.sqlite
+*.sqlite3
+
